@@ -29,7 +29,7 @@ python speaker_id.py --cfg=cfg/$CFG_FILE
 where:
 - *$CFG_FILE* is the name of the cfg configuration file which is located at cfg folder.
 
-We have made available several cfg configuration files for the experiments, if you want to run the experiment with the traditional SincNet (with no use of the improved AM-Softmax layer) you must use the [*SincNet_TIMIT.cfg*](cfg/SincNet_TIMIT.cfg) file, otherwise you can use the [*SincNet_TIMIT_m0XX.cfg*](cfg/) file where the *XX* denotes the size of the margin parameter that will be used for the AM-Softmax layer.
+We have made available several cfg configuration files for the experiments, if you want to run the experiment with the AM-MobileNet1D  you must use the [*AM_MobileNet1D_TIMIT.cfg*](cfg/AM_MobileNet1D_TIMIT.cfg) file, otherwise you can use the [*AM_MobileNet_XXX.cfg*](cfg/) file where the *XX* refers to the dataset name.
 
 
 ## Results
