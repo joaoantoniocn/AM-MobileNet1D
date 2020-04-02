@@ -36,3 +36,21 @@ We have made available several cfg configuration files for the experiments, if y
 When training have a look at the *cfg* configuration file, the output paths for the model and the result (*res.res*) files are placed there.
 
 We have also made available some results from our experiments, you can check them at [*exp*](exp/) folder. The resume of the results are saved in the *res.res* files.
+
+
+## Cite us
+
+If you use this code or part of it, please cite us!
+
+```
+@misc{nunes2020ammobilenet1d,
+    title={AM-MobileNet1D: A Portable Model for Speaker Recognition},
+    author={João Antônio Chagas Nunes and David Macêdo and Cleber Zanchettin},
+    year={2020},
+    eprint={2004.00132},
+    archivePrefix={arXiv},
+    primaryClass={cs.SD}
+}
+```
+
+You can also find the preprint at [arXiv](https://arxiv.org/abs/2004.00132).
