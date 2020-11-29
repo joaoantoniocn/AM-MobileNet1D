@@ -43,14 +43,16 @@ We have also made available some results from our experiments, you can check the
 If you use this code or part of it, please cite us!
 
 ```
-@INPROCEEDINGS{9207519,
-  author={J. A. {Chagas Nunes} and D. {Macedô} and C. {Zanchettin}},
-  booktitle={2020 International Joint Conference on Neural Networks (IJCNN)}, 
-  title={AM-MobileNet1D: A Portable Model for Speaker Recognition}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={1-8},}
+@INPROCEEDINGS{9207519,  
+  author={J. A. {Chagas Nunes} and D. {Macêdo} and C. {Zanchettin}},  
+  booktitle={2020 International Joint Conference on Neural Networks (IJCNN)},   
+  title={AM-MobileNet1D: A Portable Model for Speaker Recognition},   
+  year={2020},  
+  volume={},  
+  number={},  
+  pages={1-8},  
+  doi={10.1109/IJCNN48605.2020.9207519}
+ }
 ```
 You can also find the paper at [IEEE](https://ieeexplore.ieee.org/abstract/document/9207519) or the preprint at [arXiv](https://arxiv.org/abs/2004.00132).
 
