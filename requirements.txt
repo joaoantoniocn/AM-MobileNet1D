@@ -2,7 +2,7 @@ audioread==2.1.8
 cffi==1.11.5
 cycler==0.10.0
 decorator==4.4.0
-joblib==0.14.0
+joblib==1.2.0
 kiwisolver==1.1.0
 librosa==0.7.1
 llvmlite==0.30.0
